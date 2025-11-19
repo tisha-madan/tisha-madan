@@ -61,6 +61,7 @@ Skills:
 🔒 Password Requirements
 
 This was a python project that asks the user for a password and checks if it is a strong passoword of more than 8 characters. It also checks if it includes "school" or "class".
+
 Skills:
 - Python
 - Logical thinking
