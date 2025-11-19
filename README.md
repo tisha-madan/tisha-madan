@@ -72,6 +72,7 @@ Skills:
 📞 Greeting Formatter
 
 This was a python project asks the user for their first and last name. It return it capatalized and the initials of the name. 
+
 Skills: 
 - Python
 - Hard working
